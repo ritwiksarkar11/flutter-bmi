@@ -6,6 +6,6 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-![](images/home.png)
-![](images/result.png)
+<img src = "images/home.png" width ="200",height ="200">
+
 
