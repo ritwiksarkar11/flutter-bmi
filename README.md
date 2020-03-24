@@ -1,2 +1,2 @@
 # flutter-bmi
-BMI CALCULATOR
+BMI CALCULATOR using Flutter
